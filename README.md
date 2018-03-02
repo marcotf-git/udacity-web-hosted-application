@@ -34,10 +34,7 @@ The application can be accessed at `<http://18.221.18.203/>`.
 
 * Created a  new database user named `catalog` with limited permissions to the application database.
 
-* Adapted the software to handle `postgresql` database:
-
-        engine = create_engine('postgresql://<user>:<newPassword>@localhost/<database>')
-
+* Adapted the software to handle `postgresql` database.
 
 * Corrected application runtime error `IO error` by making absolute reference `url` when loading files.
 
