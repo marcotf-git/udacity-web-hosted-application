@@ -39,7 +39,7 @@ The application can be accessed at `<http://18.221.18.203/>`.
 * Corrected application runtime error `IO error` by making absolute reference `url` when loading files.
 
 
-*This hosted web application is for learning purposes.*📚
+*This hosted web application is for learning purposes.* 📚
 
 
 # Credits
