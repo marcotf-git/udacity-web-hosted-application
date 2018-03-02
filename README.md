@@ -8,6 +8,8 @@ The server can be accessed through `ssh` at `IP 18.221.18.203`  port `2200`.
 
 The application can be accessed at `<http://18.221.18.203/>`.
 
+This hosted web application is for learning purposes. 📚
+
 # Summary of installed software and configuration
 
 * The system software was updated.
@@ -37,10 +39,6 @@ The application can be accessed at `<http://18.221.18.203/>`.
 * Adapted the software to handle `postgresql` database.
 
 * Corrected application runtime error `IO error` by making absolute reference `url` when loading files.
-
-
-
-This hosted web application is for learning purposes. 📚
 
 
 # Credits
